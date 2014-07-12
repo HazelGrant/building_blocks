@@ -1,8 +1,9 @@
+# ## Building Blocks - Project 2: Stock Picker
+#
 # Implement a method #stock_picker that takes an array
 # of stock prices, one for each hypothetical day. It should return
 # a pair of days representing the best day to buy and the best
 # day to sell. Days start at 0.
-#
 
 def stock_picker(prices)
   optimal_sell = prices.sort

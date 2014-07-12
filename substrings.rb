@@ -1,4 +1,5 @@
-# ##Your Task
+# Building Blocks - Project 3: Substrings
+#
 # Implement a method #substring that takes a word as the first argument
 # and then an array of valid substrings (your dictionary) as the second argument.
 # It should return a hash listing each substring (case insensitive)
